@@ -27,3 +27,7 @@ es cuando la inteligencia artificial va aprendiendo de forma automatica, sin nec
 
 ## Qué necesitamos para el curso?
 Conocimietos de estadistica tales como las medidas de tendencia central, varianza y desviacion estandar y a demas conocimientos de algoritmos y programación.
+
+## regresión lineal
+Es el algoritmo de aprendizaje supervisado y ayuda a predecir el valor de una variable en el futuro, teniendo en cuenta que los datos deben estar relacionados entre si.
+Vamos a hacer un ejercicio de regresión lineal para conocer el precio aproximado de una casa, teniendo en cuenta sus precios y metros cuadrados.
